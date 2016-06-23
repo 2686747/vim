@@ -2,5 +2,5 @@
 
 ### [In hot pursuit...](https://habrahabr.ru/post/303524/)
 
-### Screenshots
+![vim screenshot](/screenshots/vim.png)
 
