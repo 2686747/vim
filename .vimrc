@@ -1,6 +1,6 @@
 
-set rtp+=$HOME/vimfiles/bundle/Vundle.vim/
-call vundle#begin('$USERPROFILE/vimfiles/bundle/')
+set rtp+=~/.vim/bundle/Vundle.vim/
+call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
@@ -71,7 +71,7 @@ filetype plugin indent on
 syntax enable
 
 colorscheme wombat
-set guifont=Hack:h11:cDEFAULT
+" set guifont=Hack:h11:cDEFAULT
 
 "remove right-hand scroll bar
 set guioptions-=r
